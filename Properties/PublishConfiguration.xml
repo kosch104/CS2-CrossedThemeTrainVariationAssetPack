@@ -1,27 +1,27 @@
 <Publish>
-  <ModId Value="80789" />
-  <DisplayName Value="Train Variation Asset Pack" />
-  <ShortDescription Value="This Pack adds 6 train variations, consisting of different lengths" />
+  <ModId Value="84784" />
+  <DisplayName Value="Combined Theme Train Variation Asset Pack" />
+  <ShortDescription Value="This Pack adds 14 cross-theme train variations, consisting of different lengths" />
   <LongDescription>
-## Train Variation Asset Pack
-This Pack adds 6 train variations in different lengths, including a double train. All variations exist for EU and NA themed train.
+## Combined Theme Train Variation Asset Pack
+This Pack adds a total of 14 trains to the game. You can now use NA trains in EU maps and vice versa. All train lengths from the Original "Train Variation Asset Pack" are included. You don't need the original mod if you are using this one instead.
 
 ## New Assets
-- Passenger Train (3 Segment) (cap. 240)
-- Passenger Train (4 Segment) (cap. 360)
-- Passenger Train (5 Segment) (cap. 480)
-- Passenger Train (6 Segment) (cap. 600)
-- Passenger Train (7 Segment) (cap. 720)
-- Passenger Train (8 Segment, Vanilla) (cap. 840)
-- Passenger Train (2x3 Segments) (cap. 480)
+- EU/NA Passenger Train (3 Segment) (cap. 240)
+- EU/NA Passenger Train (4 Segment) (cap. 360)
+- EU/NA Passenger Train (5 Segment) (cap. 480)
+- EU/NA Passenger Train (6 Segment) (cap. 600)
+- EU/NA Passenger Train (7 Segment) (cap. 720)
+- EU/NA Passenger Train (8 Segment, Vanilla) (cap. 840)
+- EU/NA Passenger Train (2x3 Segments) (cap. 480)
 </LongDescription>
   <Thumbnail Value="Properties/Train.jpg" />
   <Screenshot Value="Properties/Train.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
-  <ModVersion Value="1.1.0" />
+  <ModVersion Value="1.0.0" />
   <GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
-  <ChangeLog>- Add NA Train Variations</ChangeLog>
+  <ChangeLog>- Initial Release</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
 </Publish>
