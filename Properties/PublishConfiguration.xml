@@ -4,7 +4,8 @@
   <ShortDescription Value="This Pack adds 14 cross-theme train variations, consisting of different lengths" />
   <LongDescription>
 ## Crossed Theme Train Variation Asset Pack
-This Pack adds a total of 14 trains to the game. You can now use NA trains in EU maps and vice versa. All train lengths from the Original "Train Variation Asset Pack" are included. You don't need the original mod if you are using this one instead.
+This pack adds EU trains to NA maps, and NA trains to EU maps. If you want EU variations in EU maps and NA variations in NA maps, check out my pack "Train Variations Pack".
+    All train lengths from the Original "Train Variation Asset Pack" are included.
 
 ## New Assets
 - EU/NA Passenger Train (3 Segment) (cap. 240)
@@ -19,9 +20,10 @@ This Pack adds a total of 14 trains to the game. You can now use NA trains in EU
   <Screenshot Value="Properties/Train.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
-  <ModVersion Value="1.0.0" />
+  <ModVersion Value="1.1.0" />
   <GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
-  <ChangeLog>- Initial Release</ChangeLog>
+  <ChangeLog>- Remove obsolete identifiers from prefabs</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
+  <ExternalLink Type="github" Url="https://github.com/kosch104/CS2-CrossedThemeTrainVariationAssetPack" />
 </Publish>
