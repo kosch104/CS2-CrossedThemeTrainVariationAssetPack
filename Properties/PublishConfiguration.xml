@@ -15,15 +15,16 @@ This pack adds EU trains to NA maps, and NA trains to EU maps. If you want EU va
 - EU/NA Passenger Train (7 Segment) (cap. 720)
 - EU/NA Passenger Train (8 Segment, Vanilla) (cap. 840)
 - EU/NA Passenger Train (2x3 Segments) (cap. 480)
+- EU/NA Passenger Train (2x4 Segments) (cap. 600)
 </LongDescription>
   <Thumbnail Value="Properties/Train.jpg" />
   <Screenshot Value="Properties/Train.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
-  <ModVersion Value="1.1.0" />
+  <ModVersion Value="1.1.1" />
   <GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
-  <ChangeLog>- Remove obsolete identifiers from prefabs</ChangeLog>
+  <ChangeLog>- Add 2x4 Segment Variation</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
   <ExternalLink Type="github" Url="https://github.com/kosch104/CS2-CrossedThemeTrainVariationAssetPack" />
 </Publish>
